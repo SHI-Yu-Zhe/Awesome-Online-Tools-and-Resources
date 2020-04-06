@@ -6,7 +6,7 @@ Some recommendatory online tools and resources.
 
 *[Programming](#2)
 
-##1 Academic
+## Academic
 
 [DBLP]( https://dblp.uni-trier.de/ )	A database for papers on computer science.
 
@@ -15,6 +15,8 @@ Some recommendatory online tools and resources.
 [MS Academic](https://academic.microsoft.com/php)	
 
 [Sci-Hub](https://mg.scihub.ltd/)
+
+[WikiPedia](https://www.wikipedia.ch/)
 
 
 
