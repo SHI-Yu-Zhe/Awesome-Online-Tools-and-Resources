@@ -6,7 +6,7 @@ Some recommendatory online tools and resources.
 
 *[Programming](#2)
 
-## Academic
+##1 Academic
 
 [DBLP]( https://dblp.uni-trier.de/ )	A database for papers on computer science.
 
