@@ -14,6 +14,8 @@ Some recommendatory online tools and resources.
 
 [MS Academic](https://academic.microsoft.com/php)	
 
+[Google Scholar](https://scholar.google.com/)
+
 [Sci-Hub](https://mg.scihub.ltd/)
 
 [WikiPedia](https://www.wikipedia.ch/)
