@@ -22,7 +22,7 @@ Some recommendatory online tools and resources.
 
 ## Programming 
 
-[Compiler Explorer](https://godbolt.org/) Generating x86masm Assembly from C.
+[Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
 [Matlab](https://matlab.mathworks.com/) Online Matlab Server.
 
