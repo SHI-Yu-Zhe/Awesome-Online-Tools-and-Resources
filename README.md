@@ -2,6 +2,9 @@
 
 Some recommendatory online tools and resources.
 
+<span id = "c"></span>
+## Table of Contents
+
 *[Academic](#academic)
 
 *[Tutorials](#tutorials)
@@ -36,6 +39,8 @@ Some recommendatory online tools and resources.
 
 [PhilPapers](https://philpapers.org/) Papers on epistemology and philosophy.
 
+*[Back to Top](#c)
+
 
 <span id = "tutorials"></span>
 ## Tutorials
@@ -52,6 +57,8 @@ Some recommendatory online tools and resources.
 
 [Machine Learning](https://github.com/wepe/MachineLearning) Basic Machine Learning Implementations. 中文版。
 
+*[Back to Top](#c)
+
 
 <span id = "programming"></span>
 ## Programming
@@ -62,6 +69,8 @@ Some recommendatory online tools and resources.
 
 [CircuitVerse](https://circuitverse.org/simulator) Online Digital Logic Simulator.
 
+*[Back to Top](#c)
+
 
 <span id = "plot"></span>
 ## Plot
@@ -71,6 +80,8 @@ Some recommendatory online tools and resources.
 [Plotly](https://chart-studio.plotly.com/create/#/) Online Plotly-Python interactive editor.
 
 [Canva](https://www.canva.com/graphs/) Online diagram generator.
+
+*[Back to Top](#c)
 
 
 <span id = "document"></span>
@@ -90,6 +101,8 @@ Some recommendatory online tools and resources.
 
 [PlanetB](http://www.planetb.ca/syntax-highlight-word) Online code syntax-highlight generator for MS Doc.
 
+*[Back to Top](#c)
+
 
 <span id = "mm"></span>
 ## MultiMedia
@@ -103,6 +116,8 @@ Some recommendatory online tools and resources.
 [OCR API](https://ocr.space/) Online Optical Character Recognizer.
 
 [Office](https://www.office.com/) MS Office Online.
+
+*[Back to Top](#c)
 
 
 <span id = "music"></span>
@@ -141,6 +156,8 @@ Some recommendatory online tools and resources.
 [Mozart](https://music.163.com/#/playlist?id=4908369831) My collection of masterpieces by Wolfgang Amadeus Mozart.
 
 [Haendel](https://music.163.com/#/playlist?id=3205190743) My collection of masterpieces by Georg Friedrich Haendel.
+
+*[Back to Top](#c)
 
 
 
