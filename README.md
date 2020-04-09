@@ -6,11 +6,15 @@ Some recommendatory online tools and resources.
 
 *[Programming](#2)
 
+*[Plot](#3)
+
 ## Academic
+<span id = "#1"></span>
+(#1)
 
 [DBLP]( https://dblp.uni-trier.de/ )	A database for papers on computer science.
 
-[ArXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=&terms-0-field=title&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)	A database for pre-printed papers on computer science.
+[ArXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=&terms-0-field=title&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)	A database for pre-printed papers.
 
 [MS Academic](https://academic.microsoft.com/php)	
 
@@ -24,14 +28,27 @@ Some recommendatory online tools and resources.
 
 [PhilPapers](https://philpapers.org/) Papers on epistemology and philosophy.
 
+[MS Docs](https://docs.microsoft.com/zh-cn/learn/browse/) Tutorials for services on MS Azure. 中文版。
+
+
 ## Programming 
+<span id = "#2"></span>
+(#2)
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
 [Matlab](https://matlab.mathworks.com/) Online Matlab Server.
 
 
+## Plot
+<span id = "#3"></span>
+(#3)
 
+[Edotor](https://edotor.net/) Online Graphviz editor.
+
+[Plotly](https://chart-studio.plotly.com/create/#/) Online Plotly-Python interactive editor.
+
+[Canva](https://www.canva.com/graphs/) Online diagram generator.
 
 
 
