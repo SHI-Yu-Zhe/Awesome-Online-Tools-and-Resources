@@ -20,6 +20,10 @@ Some recommendatory online tools and resources.
 
 [WikiPedia](https://www.wikipedia.ch/)
 
+[Plato](https://plato.stanford.edu/contents.html) Papers on epistemology and philosophy.
+
+[PhilPapers](https://philpapers.org/) Papers on epistemology and philosophy.
+
 ## Programming 
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
