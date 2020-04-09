@@ -4,7 +4,7 @@ Some recommendatory online tools and resources.
 
 *[Academic](#academic)
 
-*[Tutorials](#tutorial)
+*[Tutorials](#tutorials)
 
 *[Programming](#programming)
 
