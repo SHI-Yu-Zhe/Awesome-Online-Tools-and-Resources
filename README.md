@@ -8,8 +8,10 @@ Some recommendatory online tools and resources.
 
 *[Plot](#3)
 
-<span id = "#1">
+
 ## Academic
+<span id = "#1">
+Academic
 </span>
 
 [DBLP]( https://dblp.uni-trier.de/ )	A database for papers on computer science.
@@ -30,16 +32,20 @@ Some recommendatory online tools and resources.
 
 [MS Docs](https://docs.microsoft.com/zh-cn/learn/browse/) Tutorials for services on MS Azure. 中文版。
 
+
+## Programming
 <span id = "#2">
-## Programming 
+Programming 
 </span>
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
 [Matlab](https://matlab.mathworks.com/) Online Matlab Server.
 
-<span id = "#3">
+
 ## Plot
+<span id = "#3">
+Plot
 </span>
 
 [Edotor](https://edotor.net/) Online Graphviz editor.
