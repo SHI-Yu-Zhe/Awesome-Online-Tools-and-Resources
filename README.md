@@ -78,7 +78,9 @@ Some recommendatory online tools and resources.
 
 [OverLeaf](https://www.overleaf.com/login) Online LaTex editor.
 
-[Templates](https://github.com/YuzheSHI/HUST-Lab_Reports-and-Assignments-LaTex-Templates) LaTex templates for HUST.
+[Templates](https://www.overleaf.com/latex/templates) LaTex templates.
+
+[HUST-Templates](https://github.com/YuzheSHI/HUST-Lab_Reports-and-Assignments-LaTex-Templates) LaTex templates for HUST.
 
 [Table](https://tablesgenerator.com/) Online LaTex table generator.
 
