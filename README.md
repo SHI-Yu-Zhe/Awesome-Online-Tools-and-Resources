@@ -2,13 +2,20 @@
 
 Some recommendatory online tools and resources.
 
-*[Academic](#1)
+*[Academic](#academic)
 
-*[Programming](#2)
+*[Tutorials](#tutorial)
 
-*[Plot](#3)
+*[Programming](#programming)
 
-<span id = "1"></span>
+*[Plot](#plot)
+
+*[Document](#document)
+
+*[Music](#music)
+
+
+<span id = "academic"></span>
 ## Academic
 
 [DBLP]( https://dblp.uni-trier.de/ )	A database for papers on computer science.
@@ -27,16 +34,34 @@ Some recommendatory online tools and resources.
 
 [PhilPapers](https://philpapers.org/) Papers on epistemology and philosophy.
 
+
+<span id = "tutorials"></span>
+## Tutorials
+
 [MS Docs](https://docs.microsoft.com/zh-cn/learn/browse/) Tutorials for services on MS Azure. 中文版。
 
-<span id = "2"></span>
+[Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) Deepai, Andrew Ng. 中文版。
+
+[Prolog](http://www.learnprolognow.org/lpnpage.php?pageid=online&ref=hackr.io) 
+
+[The Power of Prolog](https://github.com/triska/the-power-of-prolog)
+
+[PyTorch](https://github.com/zergtant/pytorch-handbook) 中文版。
+
+[Machine Learning](https://github.com/wepe/MachineLearning) Basic Machine Learning Implementations. 中文版。
+
+
+<span id = "programming"></span>
 ## Programming
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
 [Matlab](https://matlab.mathworks.com/) Online Matlab Server.
 
-<span id = "3"></span>
+[CircuitVerse](https://circuitverse.org/simulator) Online Digital Logic Simulator.
+
+
+<span id = "plot"></span>
 ## Plot
 
 [Edotor](https://edotor.net/) Online Graphviz editor.
@@ -44,6 +69,61 @@ Some recommendatory online tools and resources.
 [Plotly](https://chart-studio.plotly.com/create/#/) Online Plotly-Python interactive editor.
 
 [Canva](https://www.canva.com/graphs/) Online diagram generator.
+
+
+<span id = "document"></span>
+## Document
+
+[OverLeaf](https://www.overleaf.com/login) Online LaTex editor.
+
+[Table](https://tablesgenerator.com/) Online LaTex table generator.
+
+[Sejda](https://www.sejda.com/) Online PDF Editor.
+
+[SmallPDF](https://smallpdf.com/) Online PDF Editor.
+
+[PlanetB](http://www.planetb.ca/syntax-highlight-word) Online code syntax-highlight generator for MS Doc.
+
+
+<span id = "music"></span>
+## Music
+
+[IMLSP](https://cn.imslp.org/wiki/Main_Page) Sheet music library.
+
+[Julia Fischer](https://music.163.com/#/playlist?id=4906745688) Music played by Julia Fischer.
+
+[Julia Fischer](https://search.bilibili.com/video?keyword=Julia%20Fischer) Videos of Julia Fischer.
+
+[Beethoven Concertos](https://www.bilibili.com/video/BV1sW411772d?p=1) Videos of Daniel Barenboim conducting and playing beethoven concertos with Staaskapelle Berlin at Jahrhunderthalle Bochum, Klavierfestival Ruhr 2007. 
+
+[Mendelssohn](https://music.163.com/#/playlist?id=3223904225) My collection of masterpieces by Felix Mendelssohn.
+
+[Beethoven](https://music.163.com/#/playlist?id=3216672214) My collection of masterpieces by Ludwig van Beethoven.
+
+[Brahms](https://music.163.com/#/playlist?id=3225330622) My collection of masterpieces by Johannes Brahms.
+
+[Bach](https://music.163.com/#/playlist?id=4935273828) My collection of masterpieces by Johann Sebastian Bach.
+
+[Clara Schmann / Robert Schumann](https://music.163.com/#/playlist?id=4908409129) My collection of masterpieces by Clara Schumann and Robert Schumann.
+
+[Schubert](https://music.163.com/#/playlist?id=4903443804) My collection of masterpieces by Franz Schubert.
+
+[Chopin](https://music.163.com/#/playlist?id=4908278828) My collection of masterpieces by Fredric Chopin.
+
+[Tchaikovsky](https://music.163.com/#/playlist?id=4880520521) My collection of masterpieces by Peter Ilych Tchaikovsky.
+
+[Rachmaninoff](https://music.163.com/#/playlist?id=4931921805) My collection of masterpieces by Sergei Rachmaninoff.
+
+[Grieg](https://music.163.com/#/playlist?id=4915959901) My collection of masterpieces by Edvard Grieg.
+
+[Maehler](https://music.163.com/#/playlist?id=4931952681) My collection of masterpieces by Gustav Maehler.
+
+[Mozart](https://music.163.com/#/playlist?id=4908369831) My collection of masterpieces by Wolfgang Amadeus Mozart.
+
+[Haendel](https://music.163.com/#/playlist?id=3205190743) My collection of masterpieces by Georg Friedrich Haendel.
+
+
+
 
 
 
