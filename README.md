@@ -10,7 +10,7 @@ Some recommendatory online tools and resources.
 
 
 ## Academic
-<span id = "#1">
+<span id = "1">
 Academic
 </span>
 
@@ -34,7 +34,7 @@ Academic
 
 
 ## Programming
-<span id = "#2">
+<span id = "2">
 Programming 
 </span>
 
@@ -44,7 +44,7 @@ Programming
 
 
 ## Plot
-<span id = "#3">
+<span id = "3">
 Plot
 </span>
 
