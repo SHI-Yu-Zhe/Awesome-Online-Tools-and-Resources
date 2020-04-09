@@ -12,6 +12,8 @@ Some recommendatory online tools and resources.
 
 *[Document](#document)
 
+*[MultiMedia](#mm)
+
 *[Music](#music)
 
 
@@ -83,6 +85,20 @@ Some recommendatory online tools and resources.
 [SmallPDF](https://smallpdf.com/) Online PDF Editor.
 
 [PlanetB](http://www.planetb.ca/syntax-highlight-word) Online code syntax-highlight generator for MS Doc.
+
+
+<span id = "mm"></span>
+## MultiMedia
+
+[Audio Converter](https://online-audio-converter.com/) Online audio convertor.
+
+[Cloud Convert](https://cloudconvert.com/) Online multiple convertors. 
+
+[OCRMaker](http://ocrmaker.com/) Online Optical Character Recognizer.
+
+[OCR API](https://ocr.space/) Online Optical Character Recognizer.
+
+[Office](https://www.office.com/) MS Office Online.
 
 
 <span id = "music"></span>
