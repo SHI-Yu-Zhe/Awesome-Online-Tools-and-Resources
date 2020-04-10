@@ -101,6 +101,8 @@ Some recommendatory online tools and resources.
 
 [PlanetB](http://www.planetb.ca/syntax-highlight-word) Online code syntax-highlight generator for MS Doc.
 
+[WonderCV](https://www.wondercv.com/) Online CV generator. (中文/English)
+
 *[Back to Top](#c)
 
 
