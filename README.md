@@ -83,6 +83,8 @@ Some recommendatory online tools and resources.
 
 [Canva](https://www.canva.com/graphs/) Online diagram generator.
 
+[Sketchpad](https://sketch.io/sketchpad/) Online drawing tool.
+
 *[Back to Top](#c)
 
 
