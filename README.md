@@ -57,6 +57,8 @@ Some recommendatory online tools and resources.
 
 [Machine Learning](https://github.com/wepe/MachineLearning) Basic Machine Learning Implementations. 中文版。
 
+[Algorithms](https://github.com/labuladong/fucking-algorithm) A tutorial on basic algorithm problems. 中文版/English.
+
 *[Back to Top](#c)
 
 
