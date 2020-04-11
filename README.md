@@ -71,6 +71,8 @@ Some recommendatory online tools and resources.
 
 [CircuitVerse](https://circuitverse.org/simulator) Online Digital Logic Simulator.
 
+[Logism](https://www.rollapp.com/app/logisim) Online Digital Logic Simulator.
+
 *[Back to Top](#c)
 
 
