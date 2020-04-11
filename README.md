@@ -67,6 +67,8 @@ Some recommendatory online tools and resources.
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
+[AsmDebugger](http://asmdebugger.com/) Online assembly debugger.
+
 [Matlab](https://matlab.mathworks.com/) Online Matlab Server.
 
 [CircuitVerse](https://circuitverse.org/simulator) Online Digital Logic Simulator.
