@@ -35,6 +35,8 @@ Some recommendatory online tools and resources.
 
 [WikiPedia](https://www.wikipedia.ch/)
 
+[Jiumo](https://www.jiumodiary.com/) Online library of PDF books for free download.
+
 [Plato](https://plato.stanford.edu/contents.html) Papers on epistemology and philosophy.
 
 [PhilPapers](https://philpapers.org/) Papers on epistemology and philosophy.
