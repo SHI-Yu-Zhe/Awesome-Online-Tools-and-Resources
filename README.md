@@ -49,6 +49,8 @@ Some recommendatory online tools and resources.
 <span id = "tutorials"></span>
 ## Tutorials
 
+[NumpyML](https://github.com/ddbourgin/numpy-ml) Machine learning in Numpy. [Docs](https://numpy-ml.readthedocs.io/en/latest/index.html)
+
 [MS Docs](https://docs.microsoft.com/zh-cn/learn/browse/) Tutorials for services on MS Azure. 中文版。
 
 [Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) Deepai, Andrew Ng. 中文版。
@@ -68,8 +70,6 @@ Some recommendatory online tools and resources.
 
 <span id = "programming"></span>
 ## Programming
-
-[NumpyML](https://github.com/ddbourgin/numpy-ml) Machine learning in Numpy. [Docs](https://numpy-ml.readthedocs.io/en/latest/index.html)
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
