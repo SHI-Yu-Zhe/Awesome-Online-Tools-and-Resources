@@ -69,6 +69,8 @@ Some recommendatory online tools and resources.
 <span id = "programming"></span>
 ## Programming
 
+[NumpyML](https://github.com/ddbourgin/numpy-ml) Machine learning in Numpy. [Docs](https://numpy-ml.readthedocs.io/en/latest/index.html)
+
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and C simultaneously.
 
 [AsmDebugger](http://asmdebugger.com/) Online assembly debugger.
