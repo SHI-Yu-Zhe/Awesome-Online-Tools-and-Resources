@@ -65,6 +65,8 @@ Some recommendatory online tools and resources.
 
 [Algorithms](https://github.com/labuladong/fucking-algorithm) A tutorial on basic algorithm problems. 中文版/English.
 
+[Belbin](https://www.belbin.com/) Turtorial on team management.
+
 *[Back to Top](#c)
 
 
