@@ -151,7 +151,7 @@ Some recommendatory online tools and resources.
 
 [Beethoven Concertos](https://www.bilibili.com/video/BV1sW411772d?p=1) Videos of Daniel Barenboim conducting and playing beethoven concertos with Staaskapelle Berlin at Jahrhunderthalle Bochum, Klavierfestival Ruhr 2007. 
 
-[Mendelssohn](https://music.163.com/#/playlist?id=3223904225) My collection of masterpieces by Felix Mendelssohn.
+[Mendelssohn](https://music.163.com/#/playlist?id=3223904225) My collection of masterpieces by Felix Mendelssohn and Fanny Mendelssohn Hensel.
 
 [Beethoven](https://music.163.com/#/playlist?id=3216672214) My collection of masterpieces by Ludwig van Beethoven.
 
@@ -159,7 +159,7 @@ Some recommendatory online tools and resources.
 
 [Bach](https://music.163.com/#/playlist?id=4935273828) My collection of masterpieces by Johann Sebastian Bach.
 
-[Clara Schmann / Robert Schumann](https://music.163.com/#/playlist?id=4908409129) My collection of masterpieces by Clara Schumann and Robert Schumann.
+[Schumann](https://music.163.com/#/playlist?id=4908409129) My collection of masterpieces by Clara Schumann and Robert Schumann.
 
 [Schubert](https://music.163.com/#/playlist?id=4903443804) My collection of masterpieces by Franz Schubert.
 
