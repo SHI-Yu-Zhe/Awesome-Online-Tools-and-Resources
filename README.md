@@ -37,6 +37,8 @@ Some recommendatory online tools and resources.
 
 [ZLibrary](https://b-ok.cc/) Online e-book-library for free downloading.
 
+[Library Genisis](https://libgen.lc/) Online e-book-library for free downloading.
+
 [Jiumo](https://www.jiumodiary.com/) Online e-book-library for free downloading.
 
 [Plato](https://plato.stanford.edu/contents.html) Papers on epistemology and philosophy.
