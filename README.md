@@ -85,6 +85,8 @@ Some recommendatory online tools and resources.
 
 [Logisim](https://www.rollapp.com/app/logisim) Online Digital Logic Simulator.
 
+[Multisim](https://www.multisim.com/create/) Online Circurt Simulator.
+
 *[Back to Top](#c)
 
 
