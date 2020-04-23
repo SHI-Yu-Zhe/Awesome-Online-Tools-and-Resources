@@ -153,7 +153,7 @@ Some recommendatory online tools and resources.
 
 [Julia Fischer](https://search.bilibili.com/video?keyword=Julia%20Fischer) Videos of Julia Fischer.
 
-[Anne-Sophie Mutter: A life with Beethoven](https://www.bilibili.com/video/BV1xx41117gx/?spm_id_from=333.788.videocard.1) [Anne-Sophie Mutter: Encounters with Mendelssohn](https://www.bilibili.com/video/BV1G54y1d7gX?from=search&seid=3428521453807795547)
+[Anne-Sophie Mutter: A life with Beethoven](https://www.bilibili.com/video/BV1xx41117gx/?spm_id_from=333.788.videocard.1), [Anne-Sophie Mutter: Encounters with Mendelssohn](https://www.bilibili.com/video/BV1G54y1d7gX?from=search&seid=3428521453807795547) Musical documentaries by Anne-Sophie Mutter.
 
 [Beethoven Concertos](https://www.bilibili.com/video/BV1sW411772d?p=1) Videos of Daniel Barenboim conducting and playing beethoven concertos with Staaskapelle Berlin at Jahrhunderthalle Bochum, Klavierfestival Ruhr 2007. 
 
