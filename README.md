@@ -69,6 +69,8 @@ Some recommendatory online tools and resources.
 
 [Belbin](https://www.belbin.com/) Turtorial on team management.
 
+[Refactoring and Design Patterns](https://refactoring.guru/)
+
 *[Back to Top](#c)
 
 
