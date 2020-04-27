@@ -89,6 +89,8 @@ Some recommendatory online tools and resources.
 
 [Multisim](https://www.multisim.com/create/) Online Circurt Simulator.
 
+[Calculator](https://www.calculator.net/) Online Calculators for all aims.
+
 *[Back to Top](#c)
 
 
