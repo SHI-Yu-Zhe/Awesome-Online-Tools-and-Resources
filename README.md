@@ -91,6 +91,8 @@ Some recommendatory online tools and resources.
 
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
 
+[Appetize](https://appetize.io/) Online iOS/Android simulator.
+
 *[Back to Top](#c)
 
 
