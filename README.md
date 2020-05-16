@@ -51,6 +51,8 @@ Some recommendatory online tools and resources.
 <span id = "tutorials"></span>
 ## Tutorials
 
+[Julia](http://www.JuliaAcademy.com) Julia Academy.
+
 [NumpyML](https://github.com/ddbourgin/numpy-ml) Machine learning in Numpy. [Docs](https://numpy-ml.readthedocs.io/en/latest/index.html)
 
 [MS Docs](https://docs.microsoft.com/zh-cn/learn/browse/) Tutorials for services on MS Azure. 中文版。
