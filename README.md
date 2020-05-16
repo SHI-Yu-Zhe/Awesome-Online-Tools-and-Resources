@@ -71,6 +71,10 @@ Some recommendatory online tools and resources.
 
 [Refactoring and Design Patterns](https://refactoring.guru/)
 
+[Standard Readme](https://github.com/RichardLitt/standard-readme) Templates for Readme of Machine Learning Projects.
+
+[gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates.
+
 *[Back to Top](#c)
 
 
