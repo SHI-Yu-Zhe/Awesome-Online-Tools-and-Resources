@@ -107,6 +107,8 @@ Some recommendatory online tools and resources.
 <span id = "plot"></span>
 ## Plot
 
+[Kepler.gl](https://github.com/keplergl/kepler.gl) Repo for a powerful Visulization Tool.
+
 [Edotor](https://edotor.net/) Online Graphviz editor.
 
 [Plotly](https://chart-studio.plotly.com/create/#/) Online Plotly-Python interactive editor.
