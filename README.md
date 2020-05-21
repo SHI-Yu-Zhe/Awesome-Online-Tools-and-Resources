@@ -83,6 +83,8 @@ Some recommendatory online tools and resources.
 <span id = "programming"></span>
 ## Programming
 
+[SWISH](https://swish.swi-prolog.org/) Prolog IDE and complier online.
+
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and other languages simultaneously.
 
 [AsmDebugger](http://asmdebugger.com/) Online assembly debugger.
