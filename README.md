@@ -51,6 +51,8 @@ Some recommendatory online tools and resources.
 <span id = "tutorials"></span>
 ## Tutorials
 
+[PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/) Supplyment meterial of *Machine Learning* by Zhi-Hua Zhou.
+
 [Julia](http://www.JuliaAcademy.com) Julia Academy.
 
 [NumpyML](https://github.com/ddbourgin/numpy-ml) Machine learning in Numpy. [Docs](https://numpy-ml.readthedocs.io/en/latest/index.html)
