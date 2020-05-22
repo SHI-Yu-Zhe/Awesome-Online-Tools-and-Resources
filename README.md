@@ -51,7 +51,7 @@ Some recommendatory online tools and resources.
 <span id = "tutorials"></span>
 ## Tutorials
 
-[PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/) Supplyment meterial of *Machine Learning* by Zhi-Hua Zhou.
+[PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/) Supplementary meterial of *Machine Learning* by Zhi-Hua Zhou.
 
 [Julia](http://www.JuliaAcademy.com) Julia Academy.
 
