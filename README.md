@@ -139,6 +139,8 @@ Some recommendatory online tools and resources.
 
 [Table](https://tablesgenerator.com/) Online LaTex table generator.
 
+[Combinepdf](https://combinepdf.com/) Online PDF Combiner.
+
 [Sejda](https://www.sejda.com/) Online PDF Editor.
 
 [SmallPDF](https://smallpdf.com/) Online PDF Editor.
