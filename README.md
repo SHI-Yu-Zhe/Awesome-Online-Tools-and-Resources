@@ -111,6 +111,8 @@ Some recommendatory online tools and resources.
 <span id = "plot"></span>
 ## Plot
 
+[ML-visual](https://github.com/dair-ai/ml-visuals) Visualization templates for Machine Learning paper.
+
 [Kepler.gl](https://github.com/keplergl/kepler.gl) Repo for a powerful Visulization Tool.
 
 [Edotor](https://edotor.net/) Online Graphviz editor.
