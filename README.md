@@ -171,6 +171,8 @@ Some recommendatory online tools and resources.
 
 [HTML5up](https://html5up.net/) Website templates and CSS element libraries.
 
+[epub2pdf](https://convertio.co/zh/epub-pdf/) Online epub to pdf convertor.
+
 *[Back to Top](#c)
 
 
