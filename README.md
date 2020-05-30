@@ -105,6 +105,8 @@ Some recommendatory online tools and resources.
 
 [Appetize](https://appetize.io/) Online iOS/Android simulator.
 
+[BoredHumans](https://boredhumans.com/) Online AI programs.
+
 *[Back to Top](#c)
 
 
