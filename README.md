@@ -143,6 +143,8 @@ Some recommendatory online tools and resources.
 
 [Table](https://tablesgenerator.com/) Online LaTex table generator.
 
+[I Love PDF](https://www.ilovepdf.com/zh-cn) Online PDF Tools.
+
 [Combinepdf](https://combinepdf.com/) Online PDF Combiner.
 
 [Sejda](https://www.sejda.com/) Online PDF Editor.
