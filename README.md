@@ -87,6 +87,8 @@ Some recommendatory online tools and resources.
 <span id = "programming"></span>
 ## Programming
 
+[IDEONE](https://ideone.com/) General Online IDE.
+
 [SWISH](https://swish.swi-prolog.org/) Online Prolog IDE and complier.
 
 [Compiler Explorer](https://godbolt.org/) Exploring x86masm Assembly and other languages simultaneously.
@@ -104,6 +106,8 @@ Some recommendatory online tools and resources.
 [Multisim](https://www.multisim.com/create/) Online Circurt Simulator.
 
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
+
+[IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Convertor.
 
 [Appetize](https://appetize.io/) Online iOS/Android simulator.
 
