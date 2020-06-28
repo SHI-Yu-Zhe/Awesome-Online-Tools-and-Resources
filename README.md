@@ -107,7 +107,7 @@ Some recommendatory online tools and resources.
 
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
 
-[IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Convertor.
+[IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Convertors.
 
 [Appetize](https://appetize.io/) Online iOS/Android simulator.
 
