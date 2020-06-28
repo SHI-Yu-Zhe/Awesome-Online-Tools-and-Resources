@@ -107,7 +107,9 @@ Some recommendatory online tools and resources.
 
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
 
-[IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Convertors.
+[Dcm2Bnr](http://www.binaryconvert.com/index.html) Online Decimal-Binary Converter.
+
+[IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Converters.
 
 [Appetize](https://appetize.io/) Online iOS/Android simulator.
 
@@ -169,9 +171,9 @@ Some recommendatory online tools and resources.
 
 [GreasyFork](https://greasyfork.org/zh-CN) Tampermonkey scripts repository.
 
-[Audio Converter](https://online-audio-converter.com/) Online audio convertor.
+[Audio Converter](https://online-audio-converter.com/) Online audio converter.
 
-[Cloud Convert](https://cloudconvert.com/) Online multiple convertors. 
+[Cloud Convert](https://cloudconvert.com/) Online multiple converters. 
 
 [OCRMaker](http://ocrmaker.com/) Online Optical Character Recognizer.
 
@@ -181,7 +183,7 @@ Some recommendatory online tools and resources.
 
 [HTML5up](https://html5up.net/) Website templates and CSS element libraries.
 
-[epub2pdf](https://convertio.co/zh/epub-pdf/) Online epub to pdf convertor.
+[epub2pdf](https://convertio.co/zh/epub-pdf/) Online epub to pdf converter.
 
 *[Back to Top](#c)
 
