@@ -25,6 +25,8 @@ Some recommendatory online tools and resources.
 <span id = "academic"></span>
 ## Academic
 
+[Wolfram Mathworld](https://mathworld.wolfram.com/) Mathematics.
+
 [Thesaurus](https://www.thesaurus.com/) Synonyms and Antonyms Online.
 
 [DBLP]( https://dblp.uni-trier.de/ )	A database for papers on computer science.
