@@ -51,7 +51,7 @@ Some recommendatory online tools and resources.
 
 [PhilPapers](https://philpapers.org/) Papers on epistemology and philosophy.
 
-[Psy-Paradigm](https://psychology.wikia.org/wiki/Experimental_paradigms) Philosophy experimental paradigms.
+[Psy-Paradigm](https://psychology.wikia.org/wiki/Experimental_paradigms) Experimental psychology paradigms.
 
 *[Back to Top](#c)
 
