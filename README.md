@@ -267,6 +267,9 @@ Some recommendatory online tools and resources.
 
 [epub2pdf](https://convertio.co/zh/epub-pdf/) Online epub to pdf converter.
 
+[Forto](https://www.fotor.com/cn/features/collage.html) Online Photo Structurizer.
+
+
 *[Back to Top](#c)
 
 
