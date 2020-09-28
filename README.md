@@ -25,7 +25,7 @@ Some recommendatory online tools and resources.
 <span id = "academic"></span>
 ## Academic
 
-[Wolfram Mathworld](https://mathworld.wolfram.com/){target="_blank"} Mathematics.
+[Wolfram Mathworld](https://mathworld.wolfram.com/{target="_blank"}) Mathematics.
 
 [Thesaurus](https://www.thesaurus.com/) Synonyms and Antonyms Online.
 
