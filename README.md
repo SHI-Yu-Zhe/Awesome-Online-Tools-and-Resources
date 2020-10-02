@@ -1,6 +1,6 @@
-# Online Tools & Resources
+# Awesome Online Tools & Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Some recommendatory online tools and resources.
+A curated list for some recommendatory online tools and resources.
 
 <span id = "c"></span>
 ## Table of Contents
