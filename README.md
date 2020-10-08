@@ -33,6 +33,12 @@ A curated list for some recommendatory online tools and resources.
 
 [ArXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=&terms-0-field=title&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)	A database for pre-printed papers.
 
+[ACM](https://www.acm.org/) Association for Computing Machinery.
+
+[IEEE](https://www.ieee.org/) Institute of Electrical and Electronic Engineers.
+
+[AR](https://www.annualreviews.org/) Annual Reviews.
+
 [MS Academic](https://academic.microsoft.com/php)	
 
 [Google Scholar](https://scholar.google.com/)
@@ -53,7 +59,7 @@ A curated list for some recommendatory online tools and resources.
 
 [Psy-Paradigm](https://psychology.wikia.org/wiki/Experimental_paradigms) Experimental psychology paradigms.
 
-[Psychology-Today](https://www.psychologytoday.com/intl) Articles on Psychology.
+[APA](https://psycnet.apa.org/home) American Psychology Associate.
 
 *[Back to Top](#c)
 
