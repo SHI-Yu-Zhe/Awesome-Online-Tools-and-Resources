@@ -39,6 +39,8 @@ A curated list for some recommendatory online tools and resources.
 
 [AR](https://www.annualreviews.org/) Annual Reviews.
 
+[Artificial Intelligence Review](https://www.springer.com/journal/10462/?gclid=EAIaIQobChMIgO3k8sOu7AIVRCKWCh3hZQWLEAEYASAAEgJkzfD_BwE) Reviews on recent progress in artificial intelligence and cognitive science.
+
 [MS Academic](https://academic.microsoft.com/php)	
 
 [Google Scholar](https://scholar.google.com/)
