@@ -121,6 +121,8 @@ A curated list for some recommendatory online tools and resources.
 
 [TalkingData](http://mi.talkingdata.com/reports.html?category=IndustryReport)
 
+[JingData](https://www.jingdata.com/)
+
 [iiMedia](https://www.iimedia.cn/#shuju)
 
 [DataEye](https://www.dataeye.com/report)
