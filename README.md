@@ -261,6 +261,8 @@ A curated list for some recommendatory online tools and resources.
 
 [WonderCV](https://www.wondercv.com/) Online CV generator. (中文/English)
 
+[ezyZip](https://www.ezyzip.com/unzip-files-online.html) Online zipfile extractor.
+
 *[Back to Top](#c)
 
 
