@@ -304,6 +304,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Beethoven Concertos](https://www.bilibili.com/video/BV1sW411772d?p=1) Videos of Daniel Barenboim conducting and playing beethoven concertos with Staaskapelle Berlin at Jahrhunderthalle Bochum, Klavierfestival Ruhr 2007. 
 
+[How to sound like Beethoven?](https://www.bilibili.com/video/BV1L7411G7fb/?spm_id_from=333.788.recommend_more_video.10) A tutorial analyzing Beethovenian Sonatas in memory of the 250th celebration of Beethoven.
+
 [Mendelssohn](https://music.163.com/#/playlist?id=3223904225) My collection of masterpieces by Felix Mendelssohn and Fanny Mendelssohn Hensel.
 
 [Beethoven](https://music.163.com/#/playlist?id=3216672214) My collection of masterpieces by Ludwig van Beethoven.
