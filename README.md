@@ -151,6 +151,8 @@ A curated list for some recommendatory online tools and resources.
 <span id = "tutorials"></span>
 ## Tutorials
 
+[Graphviz](https://www.graphviz.org/doc/info/shapes.html) Graphviz Documentations.
+
 [PumpkinBook](https://datawhalechina.github.io/pumpkin-book/#/) Supplementary meterial of *Machine Learning* by Zhi-Hua Zhou.
 
 [Julia](http://www.JuliaAcademy.com) Julia Academy.
