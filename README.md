@@ -129,7 +129,7 @@ A curated list for some recommendatory online tools and resources.
 
 [iiMedia](https://www.iimedia.cn/#shuju)
 
-[DataEye](https://www.dataeye.com/report)
+[DataEye](https://www.dataeye.com/)
 
 [Aldzs](https://www.aldzs.com/bg)
 
