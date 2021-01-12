@@ -181,6 +181,8 @@ A curated list for some recommendatory online tools and resources.
 
 [gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates.
 
+[Instructables](https://www.instructables.com/) A community for DIYs.
+
 *[Back to Top](#c)
 
 
