@@ -219,7 +219,7 @@ A curated list for some recommendatory online tools and resources.
 
 [Proginn](https://www.proginn.com/) 软件服务外包平台：程序员客栈．
 
-[oschina](https://zb.oschina.net/)　软件服务外包平台：开源众包．
+[oschina](https://zb.oschina.net/) 软件服务外包平台：开源众包．
 
 [codemart](https://codemart.com/) 软件服务外包平台：码市．
 
