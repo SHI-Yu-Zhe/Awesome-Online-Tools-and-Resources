@@ -217,6 +217,12 @@ A curated list for some recommendatory online tools and resources.
 
 [BoredHumans](https://boredhumans.com/) Online AI programs.
 
+[Proginn](https://www.proginn.com/) 软件服务外包平台：程序员客栈．
+
+[oschina](https://zb.oschina.net/)　软件服务外包平台：开源众包．
+
+[codemart](https://codemart.com/) 软件服务外包平台：码市．
+
 *[Back to Top](#c)
 
 
