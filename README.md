@@ -243,6 +243,8 @@ A curated list for some recommendatory online tools and resources.
 
 [ProcessOn](https://www.processon.com/;jsessionid=A557A8D56F5F9349DCFA48782342FB3F.jvm1) Online diagram generator.
 
+[Probabilistic Graph Model](https://github.com/eleanormurray/causalgraphs_latex) Repo for tikz Probabilistic Graph Model examples.
+
 *[Back to Top](#c)
 
 
