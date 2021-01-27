@@ -251,6 +251,8 @@ A curated list for some recommendatory online tools and resources.
 <span id = "document"></span>
 ## Document
 
+[Mathcha](https://www.mathcha.io/editor) Online formula and diagram editor.
+
 [OverLeaf](https://www.overleaf.com/login) Online LaTex editor.
 
 [Templates](https://www.overleaf.com/latex/templates) LaTex templates.
