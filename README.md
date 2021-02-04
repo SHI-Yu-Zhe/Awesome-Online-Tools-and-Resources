@@ -223,6 +223,8 @@ A curated list for some recommendatory online tools and resources.
 
 [codemart](https://codemart.com/) 软件服务外包平台：码市．
 
+[GoDaddy](https://www.godaddy.com/) Domain name service provider.
+
 *[Back to Top](#c)
 
 
