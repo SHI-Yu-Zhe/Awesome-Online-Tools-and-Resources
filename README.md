@@ -253,6 +253,8 @@ A curated list for some recommendatory online tools and resources.
 
 [ConvDraw](https://cbovar.github.io/ConvNetDraw/) Visualize neural network architecture online.
 
+[Netron](https://netron.app/) Visualize neural network architecture online.
+
 *[Back to Top](#c)
 
 
