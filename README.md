@@ -249,6 +249,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Probabilistic Graph Model](https://github.com/eleanormurray/causalgraphs_latex) Repo for tikz Probabilistic Graph Model examples.
 
+[NN-SVG](http://alexlenail.me/NN-SVG/AlexNet.html) Visualize neural network architecture online.
+
 *[Back to Top](#c)
 
 
