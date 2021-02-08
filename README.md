@@ -251,6 +251,8 @@ A curated list for some recommendatory online tools and resources.
 
 [NN-SVG](http://alexlenail.me/NN-SVG/AlexNet.html) Visualize neural network architecture online.
 
+[ConvDraw](https://cbovar.github.io/ConvNetDraw/) Visualize neural network architecture online.
+
 *[Back to Top](#c)
 
 
