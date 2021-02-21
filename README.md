@@ -73,6 +73,8 @@ A curated list for some recommendatory online tools and resources.
 <span id = "com"></span>
 ## Commercial
 
+[SAMR](http://wsdj.samr.gov.cn/saicmccx/) 国家市场监督管理总局企业名称查询系统．
+
 [Wind](https://www.wind.com.cn/) 中国金融经济数据终端．
 
 [Bloomberg](https://www.bloomberg.com/) 
