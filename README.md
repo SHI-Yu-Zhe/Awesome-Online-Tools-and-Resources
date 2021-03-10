@@ -69,6 +69,8 @@ A curated list for some recommendatory online tools and resources.
 
 [CSAIL Vision](https://github.com/CSAILVision) Repository of Vision Datasets produced by MIT CSAIL.
 
+[Introduction to Logic](http://intrologic.stanford.edu/public/home.php) Introduction to Mathematical Logic, Stanford Online Open Course.
+
 *[Back to Top](#c)
 
 
