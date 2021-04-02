@@ -71,6 +71,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Introduction to Logic](http://intrologic.stanford.edu/public/home.php) Introduction to Mathematical Logic, Stanford Online Open Course.
 
+[Probabilistic Graph Models](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels) Probabilistic Graph Models, Stanford Online Open Course.
+
 *[Back to Top](#c)
 
 
