@@ -73,6 +73,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Probabilistic Graph Models](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels) Probabilistic Graph Models, Stanford Online Open Course.
 
+[Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) ***MIT, Harvard, Stanford, JHU...*** Course resources of CoCoSci.
+
 *[Back to Top](#c)
 
 
