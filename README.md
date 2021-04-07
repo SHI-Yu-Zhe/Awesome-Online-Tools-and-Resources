@@ -276,6 +276,10 @@ A curated list for some recommendatory online tools and resources.
 
 [Flaticon](https://www.flaticon.com/) Database of free icons.
 
+[Vecteezy](https://www.vecteezy.com/) Database of free images.
+
+[Creately](https://creately.com/) Visual Workspace for concept visualization.
+
 *[Back to Top](#c)
 
 
