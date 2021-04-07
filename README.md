@@ -274,6 +274,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Netron](https://netron.app/) Visualize neural network architecture online.
 
+[Flaticon](https://www.flaticon.com/) Database of free icons.
+
 *[Back to Top](#c)
 
 
