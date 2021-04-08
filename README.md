@@ -278,6 +278,10 @@ A curated list for some recommendatory online tools and resources.
 
 [Vecteezy](https://www.vecteezy.com/) Database of free images.
 
+[Iconfinder](https://www.iconfinder.com/) Database of free icons.
+
+[Signdatabase](http://signdatabase.co.uk/) Database of pictorgramic signs.
+
 [Creately](https://creately.com/) Visual Workspace for concept visualization.
 
 *[Back to Top](#c)
