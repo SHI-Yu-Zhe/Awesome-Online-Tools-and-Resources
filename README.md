@@ -198,6 +198,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Instructables](https://www.instructables.com/) A community for DIYs.
 
+[Use t-SNE Efficiently](https://distill.pub/2016/misread-tsne/) Tutorial for effectively exploiting t-SNE for high-dimensional data visualization.
+
 *[Back to Top](#c)
 
 
