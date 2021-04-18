@@ -200,6 +200,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Use t-SNE Efficiently](https://distill.pub/2016/misread-tsne/) Tutorial for effectively exploiting t-SNE for high-dimensional data visualization.
 
+[Wheel of Emotions](https://www.6seconds.org/2020/08/11/plutchik-wheel-emotions/) Plutchik’s Wheel of Emotions.
+
 *[Back to Top](#c)
 
 
