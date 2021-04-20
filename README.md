@@ -250,6 +250,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Mokit](https://mockittapp.wondershare.com) Online Product Prototype Editor.
 
+[Regex=>NFA](https://cyberzhg.github.io/toolbox/regex2nfa) Online Regular Language to NFA/DFA Convertor.
+
 *[Back to Top](#c)
 
 
