@@ -1,6 +1,8 @@
 # Awesome Online Tools & Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 
 A curated list for some recommendatory online tools and resources.
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 
 <span id = "c"></span>
 ## Table of Contents
