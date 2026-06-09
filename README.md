@@ -334,7 +334,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Audio Converter](https://online-audio-converter.com/) Online audio converter.
 
-[Cloud Convert](https://cloudconvert.com/) Online multiple converters. 
+[Cloud Convert](https://cloudconvert.com/) Online multiple converters.
+[FreePNGConvert](https://freepngconvert.com/) Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions. 
 
 [OCRMaker](http://ocrmaker.com/) Online Optical Character Recognizer.
 
