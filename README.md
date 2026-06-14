@@ -159,6 +159,10 @@ A curated list for some recommendatory online tools and resources.
 
 [NSFC](http://www.nsfc.gov.cn/) National Natural Science Foundation of China.
 
+[ProductDirs](https://productdirs.com/) AI tools and tech product discovery directory with daily launches and curated reviews.
+
+[ThisTools](https://thistools.app/) Tech product discovery platform for browsing and upvoting daily launches.
+
 
 *[Back to Top](#c)
 
