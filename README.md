@@ -228,6 +228,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
 
+[DateCalx](https://datecalx.com/) Free online date, age, business day, countdown, calendar, and time calculation tools.
+
 [Dcm2Bnr](http://www.binaryconvert.com/index.html) Online Decimal-Binary Converter.
 
 [IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Converters.
