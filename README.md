@@ -228,6 +228,16 @@ A curated list for some recommendatory online tools and resources.
 
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
 
+[WattsCalc](https://wattscalc.com/) Free wattage, amp, and kWh electricity calculator.
+
+[Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) Free lawn mowing cost estimator.
+
+[Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) Free embroidery pricing calculator.
+
+[Pressure Washer Fix](https://pressurewasherfix.com/) Free pressure washer troubleshooting guides.
+
+[SkyCOTL Tools](https://skycotl.tools/) Free Sky: Children of the Light companion tools.
+
 [Dcm2Bnr](http://www.binaryconvert.com/index.html) Online Decimal-Binary Converter.
 
 [IEEE754](https://www.h-schmidt.net/FloatConverter/IEEE754.html) [IEEE754](https://baseconvert.com/ieee-754-floating-point) Two float to IEEE754 Converters.
@@ -267,6 +277,10 @@ A curated list for some recommendatory online tools and resources.
 [Plotly](https://chart-studio.plotly.com/create/#/) Online Plotly-Python interactive editor.
 
 [Canva](https://www.canva.com/graphs/) Online diagram generator.
+
+[Codex Theme Builder](https://codextheme.tools/) Free browser tool to design and export custom Codex CLI themes.
+
+[Image to Crochet Pattern](https://imagetocrochetpattern.com/) Convert any photo into a free crochet pattern grid.
 
 [Sketchpad](https://sketch.io/sketchpad/) Online drawing tool.
 
