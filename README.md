@@ -208,6 +208,8 @@ A curated list for some recommendatory online tools and resources.
 <span id = "programming"></span>
 ## Programming
 
+[NextReset](https://nextreset.ai/) Source-linked public Codex reset history, official AI service incident references, and a browser-local timer.
+
 [IDEONE](https://ideone.com/) General Online IDE.
 
 [SWISH](https://swish.swi-prolog.org/) Online Prolog IDE and complier.
