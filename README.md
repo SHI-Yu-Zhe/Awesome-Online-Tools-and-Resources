@@ -318,6 +318,8 @@ A curated list for some recommendatory online tools and resources.
 
 [PDF24](https://tools.pdf24.org/en/compare-pdf) Online PDF Comparator.
 
+[File Converter](https://fileontap.com/) Free browser-local HEIC/WebP/PNG/JPG conversion, compression, and image↔PDF.
+
 [PlanetB](http://www.planetb.ca/syntax-highlight-word) Online code syntax-highlight generator for MS Doc.
 
 [WonderCV](https://www.wondercv.com/) Online CV generator. (中文/English)
