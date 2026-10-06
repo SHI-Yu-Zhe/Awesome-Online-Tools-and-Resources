@@ -19,6 +19,8 @@ A curated list for some recommendatory online tools and resources.
 
 *[MultiMedia](#mm)
 
+*[Social Media Metrics](#social-metrics)
+
 *[Music](#music)
 
 
@@ -351,6 +353,13 @@ A curated list for some recommendatory online tools and resources.
 
 *[Back to Top](#c)
 
+
+<span id = "social-metrics"></span>
+## Social Media Metrics
+
+[Koveto-Vasarlas.hu Engagement Rate Calculator](https://koveto-vasarlas.hu/tools/engagement-rate) A free Hungarian-language browser calculator for (likes + comments) / followers, reach, or views × 100; manual inputs, no registration or profile lookup, with methodology and comparison limits.
+
+*[Back to Top](#c)
 
 <span id = "music"></span>
 ## Music
