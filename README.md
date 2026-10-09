@@ -348,6 +348,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Forto](https://www.fotor.com/cn/features/collage.html) Online Photo Structurizer.
 
+[Stunna browser photo tools](https://stunna-app.com/tools) Free camera-inspired photo filters, photo booth and photo strip maker with local processing, no account and no watermark.
+
 
 *[Back to Top](#c)
 
