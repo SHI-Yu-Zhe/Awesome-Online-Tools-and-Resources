@@ -348,6 +348,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Forto](https://www.fotor.com/cn/features/collage.html) Online Photo Structurizer.
 
+[QuietTake Noise Remover](https://noiseremover.site/) Free in-browser speech noise removal with RNNoise, local processing, A/B playback and WAV export.
+
 
 *[Back to Top](#c)
 
