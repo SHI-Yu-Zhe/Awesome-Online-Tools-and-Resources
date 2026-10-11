@@ -312,6 +312,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Combinepdf](https://combinepdf.com/) Online PDF Combiner.
 
+[Filesvo](https://filesvo.com/) Free browser-based file tools (PDF, image, audio, video, archive) — files are processed on your device and never uploaded.
+
 [Sejda](https://www.sejda.com/) Online PDF Editor.
 
 [SmallPDF](https://smallpdf.com/) Online PDF Editor.
