@@ -336,6 +336,7 @@ A curated list for some recommendatory online tools and resources.
 
 [Cloud Convert](https://cloudconvert.com/) Online multiple converters. 
 
+[ImgFlow](https://imgflow.taoliapp.com/en/) Browser image compressor and converter (PNG/JPG/HEIC/WebP/AVIF); core processing stays on-device.
 [OCRMaker](http://ocrmaker.com/) Online Optical Character Recognizer.
 
 [OCR API](https://ocr.space/) Online Optical Character Recognizer.
