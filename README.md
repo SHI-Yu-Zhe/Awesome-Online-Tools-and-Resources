@@ -226,6 +226,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Multisim](https://www.multisim.com/create/) Online Circurt Simulator.
 
+[Calculation Hub](https://calculation-hub.com/) Free calculators for mathematics, statistics, science, finance, and everyday estimates, with formulas and assumptions.
+
 [Calculator](https://www.calculator.net/) Online Calculators for all aims.
 
 [Dcm2Bnr](http://www.binaryconvert.com/index.html) Online Decimal-Binary Converter.
