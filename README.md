@@ -348,6 +348,8 @@ A curated list for some recommendatory online tools and resources.
 
 [Forto](https://www.fotor.com/cn/features/collage.html) Online Photo Structurizer.
 
+[PixelArtHive](https://pixelarthive.com/) Free browser-based pixel art conversion and sprite resizing with local image processing.
+
 
 *[Back to Top](#c)
 
